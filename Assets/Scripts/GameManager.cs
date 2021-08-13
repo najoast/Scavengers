@@ -12,7 +12,7 @@ public class GameManager : MonoBehaviour
     public BoardManager boardManager;
     [HideInInspector] public bool playerTurn = true;
 
-    private int level = 3;
+    private int level = 1;
     private List<Enemy> enemies;
     private bool enemiesMoving;
 
