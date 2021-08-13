@@ -1,3 +1,4 @@
+# Scavengers
 
 The code is basically written according to the tutorial, but part of it has been refactored to make the structure more reasonable.
 
